@@ -8,6 +8,7 @@ namespace GatewayMusalaTest.Models
       public string vendor {get; set;}
       public DateTime dateCreated {get; set;}
       public bool isOnline{get;set;}
+      //public GateWay gateWay {get;set;}
       public int IdGateway {get; set;}
     }
 }
